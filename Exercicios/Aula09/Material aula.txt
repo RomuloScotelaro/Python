@@ -1,0 +1,19 @@
+Len = informa comprimento
+count = utiliza contagem
+find =  localiza dentro da lista
+in = localiza de forma booleana
+replace = altera na string indicando 
+upper = transforma toda string em maiscula 
+lower = tranforma toda string e minuscula
+capitalize = coloca a Primeira letra da string  em maiscula
+title = tranformas primeiras letras da string e maiscula
+strip = retira os espaços inuteis da string
+slipt = divide a string e divide a string em novas listas (palavras)
+
+
+
+
+
+
+
+(9:21:2) = Periodo de busca / salto
