@@ -9,6 +9,7 @@ capitalize = coloca a Primeira letra da string  em maiscula
 title = tranformas primeiras letras da string e maiscula
 strip = retira os espaços inuteis da string
 slipt = divide a string e divide a string em novas listas (palavras)
+join = faz a união indicando um separador 
 
 
 
