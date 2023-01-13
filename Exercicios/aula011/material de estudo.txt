@@ -1,0 +1,34 @@
+codigo ansi para cores
+
+\033[Estilo,texto,fundo,m]
+
+CODIGOS PARA TEXTO 
+Style 
+0 = NONE 
+1 = BOLD 
+4 = UNDERLINE 
+7= NEGATIVE
+
+TEXT 
+30 = BRANCO
+31 = VERMELHO
+32 = VERDE                
+33 = AMARELO
+34 = AZUL
+35 = ROXO
+36 = CIANO
+37 = CINZA
+
+
+TEXT 
+40 = BRANCO
+41 = VERMELHO
+42 = VERDE 
+43 = AMARELO
+44 = AZUL
+45 = ROXO
+46 = CIANO
+47 = CINZA
+
+
+
