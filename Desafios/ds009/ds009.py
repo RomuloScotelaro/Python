@@ -1,4 +1,4 @@
-8n=int(input('Qual numero deseja realizar a tabuada?'))
+n=int(input('Qual numero deseja realizar a tabuada?'))
 print('---------------------------------')
 print('{} x {:2} = {}'.format(n, 1, n*1))
 print('{} x {:2} = {}'.format(n, 2, n*2))
